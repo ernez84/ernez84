@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @ernez84
-- 👀 I’m interested in Bitcoin.
-- 🌱 I’m currently learning more about Lightning Network and Privacy in Bitcoin.
-- 💞️ I’m looking to collaborate on similar interests.
-- 📫 How to reach me? I use same handle on Twitter.
+- 👀 I’m a Cloud Badass with experience in Infrastructure as Code, DevOps, and public cloud solutions. I’m also a certified Azure professional who stays up-to-date with industry trends.
+- 🌱 As a lifelong learner, I'm dedicated to staying up-to-date with the latest industry trends and best practices. I enjoy collaborating with cross-functional teams to tackle challenges and deliver successful outcomes.
 
 <!---
 ernez84/ernez84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
