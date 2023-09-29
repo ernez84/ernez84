@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ernez!
+- 👋 Hi, I’m Eetu.
 - 👀 I’m a Cloud Badass with experience in Infrastructure as Code, DevOps, and public cloud solutions. I’m also a certified Azure professional who stays up-to-date with industry trends.
 - 🌱 As a lifelong learner, I'm dedicated to staying up-to-date with the latest industry trends and best practices. I enjoy collaborating with cross-functional teams to tackle challenges and deliver successful outcomes.
 
